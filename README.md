@@ -1,4 +1,4 @@
-# blockchain-websites
+# Blockchain-Websites Scraped in this project
 
 1. https://giveaway.com/sponsor
 2. https://galxe.com/spaces
