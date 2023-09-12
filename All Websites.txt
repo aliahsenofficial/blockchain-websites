@@ -1,0 +1,17 @@
+Websites I want to scrape and the video.
+
+(Done) https://giveaway.com/sponsor
+(Done) https://galxe.com/spaces
+(Done) https://zealy.io/explore
+(Done) https://taskon.xyz/space
+(Done) https://app.questn.com/communities
+(Done) https://www.airdropbob.com/
+(Done) https://airdropking.io/en/
+(Done) https://airdrops.io/latest/
+(Done) https://airdropalert.com/
+
+Please check if you can scrape this. 
+(Done) https://guild.xyz/explorer
+
+https://alphaquest.io/projects/trending
+
